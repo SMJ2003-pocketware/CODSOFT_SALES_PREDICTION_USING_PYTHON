@@ -18,3 +18,7 @@ After exploring the data, I prepared the features (TV, Radio, and Newspaper expe
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/b8349d01-3f68-4f3e-a2e7-9c60783ee596)
+
+
+
