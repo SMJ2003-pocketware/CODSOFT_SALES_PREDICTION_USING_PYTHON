@@ -24,3 +24,7 @@ After exploring the data, I prepared the features (TV, Radio, and Newspaper expe
 
 ![Image](https://github.com/user-attachments/assets/e08c07b4-7392-4f41-a974-6686b4189664)
 
+![Image](https://github.com/user-attachments/assets/4834ce18-1b39-4a0d-8262-452165d1c684)
+
+![Image](https://github.com/user-attachments/assets/f57d526b-1fb1-4965-ae79-5a154e8ecdbf)
+
